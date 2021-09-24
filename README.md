@@ -29,3 +29,8 @@ The task is to redo the following tutorial. The model in the tutorial is made wi
 
 https://dvc.org/doc/use-cases/versioning-data-and-model-files/tutorial
 
+
+## Team Members ##
+- Bhagabat
+- Shreeyash
+- Aswathi
