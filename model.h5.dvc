@@ -1,4 +1,4 @@
 outs:
 - md5: 902024e6b4960cd09be9c7bdeef1ea65
   size: 78943679
-  path: model.pth
+  path: model.h5
