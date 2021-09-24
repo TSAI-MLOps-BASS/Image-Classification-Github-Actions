@@ -205,5 +205,5 @@ checkpoints = {
     'state_dict':model.state_dict()
 }
 
-top_model_weights_path = os.path.join(os.getcwd() + os.sep, 'model.pth')
+top_model_weights_path = os.path.join(os.getcwd() + os.sep, 'model.h5')
 torch.save(checkpoints,top_model_weights_path)
